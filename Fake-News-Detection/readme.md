@@ -1,7 +1,7 @@
 # Fake-News-Detection
 
 ## Overview
-This project focuses on detecting **fake news** articles using supervised machine learning algorithms. It classifies news as **real or fake** by analyzing the textual content. The project is built using Python and leverages natural language processing (NLP) and various machine learning classification techniques.
+This project focuses on detecting **fake news** articles using supervised machine learning algorithms. It classifies news as **real or fake** by analyzing the textual content. The project is built using Python and various machine learning classification techniques.
 
 ## Algorithms Used
 - **Logistic Regression**
