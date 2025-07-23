@@ -24,6 +24,7 @@ The model is trained on the Cleveland Heart Disease dataset . Features used incl
 - `slope` (slope of ST segment)
 - `ca` (major vessels colored)
 - `thal`
+- `target`
 
 ## 🛠️ Tech Stack
 - Python
